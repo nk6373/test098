@@ -1,0 +1,26 @@
+Q no 1.Why do computers understand only binary language?
+   Ans computers are  understood only binary language because they have only two sign 0,1.you know that many type of language is present over 
+       world ,and we can't make many computers for each language,so we make a binary language to convert all language in this language so 
+       computer understand only binary language.
+
+Q no 2.What is the full from of IDE?
+   Ans The full from of IDE is Integrated devlopment Environment.
+
+Q no 3.What is difference bitween a text editer and a code editer?
+   Ans.Text editor simply allows you to write and edit text and it does not have anything built_in to help you to code whereas a code editer is 
+       also text editer but it also help you write code.
+
+Q no 4.What are the step devlope software using the C language ?
+   Ans First of all we make a source file and 2nd build software.
+
+Q no 5.Explore by your own
+       (a) What is the letest verson in C language?
+       Ans C 17.
+       (b) Who devlope C language?
+       Ans Dennis Ritchie.
+       (c) What is the difference bitween System and Application software?
+       Ans System software are doing and manage your oprating system and Application software manage only own application.
+       (d) How to convert a number from a decimal number system to a binary number system?
+       Ans For exam we have decimal number is 12 and convert to binary let's do
+            (1100) this is binary number
+                     
